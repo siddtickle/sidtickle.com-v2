@@ -55,10 +55,7 @@ const ContentGrid = () => {
               more and enjoy teaching what I’ve discovered along the way. In the
               past, I interned at Qualtrics and Capital One as a Software
               Engineer and I will be graduating in May of 2024 with a degree in
-              Computer Science and a minor in Engineering Business from UVA.{" "}
-              <Link textDecoration="underline" href="/about">
-                More about me.
-              </Link>
+              Computer Science and a minor in Engineering Business from UVA.
             </Text>
           </GridItem>
         </Link>
